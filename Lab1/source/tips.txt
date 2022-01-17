@@ -1,0 +1,11 @@
+1. Make sure you understand how Manhattan Distance works, and you can develop your own heuristic function based on Manhattan Distance. 
+
+2. You need to be aware of some corner cases and prevent them to happen, such as small and medium snowballs are stacked together but they are not in the destination. 
+
+3. Keep in mind that you need to move the big snowball to destination first, then medium and small snowballs.
+
+4. You need to balance between performance of your heuristic function and its time complexity, because the more computation your heuristic function does, the more time complexity your heuristic function would be.
+
+5. Do not look at others' code on githubs, and try to write your own heuristic function. 
+
+
