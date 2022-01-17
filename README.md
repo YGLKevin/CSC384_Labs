@@ -1,4 +1,4 @@
-# CSC384_Labs
+# CSC384_Labs Introduction to Artificial Intelligence
 
 ## Lab1: The Search for a Snowperson
 - Implement a Manhattan distance heuristic
